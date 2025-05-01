@@ -26,7 +26,11 @@ This project is an **interactive data visualization dashboard** built using **Da
 
 - **Iris**: Classification of iris flowers into 3 species based on petal and sepal features.
 - **Wine**: Classification of wines based on chemical analysis.
-- **Diabetes**: Regression dataset to study disease progression based on diagnostic features.
+- **Diabetes**: Regression dataset to study disease progression based on diagnostic 
+
+Screenshots:
+![alt text](image1.png) ![alt text](image2.png) ![alt text](image3.png) ![alt text](image4.png) ![alt text](image5.png) ![alt text](image6.png)
+features.
 
 These datasets are loaded using `sklearn.datasets`.
 
